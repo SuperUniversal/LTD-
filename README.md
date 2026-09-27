@@ -1,9 +1,12 @@
-# A2_231A290021
+# LTD-
 
-Lab A2 - dong ho bam gio.
+Bai thuc hanh INT4211, moi lab mot nhanh.
 
-Nhanh `A2` la project Android. Ba commit:
+| Nhanh | Noi dung |
+| --- | --- |
+| `A1` | Lab A1, vong doi Activity |
+| `A2` | Lab A2, dong ho bam gio. Ba commit: giao dien, onSaveInstanceState, bai nang cao |
+| `A3` | Lab A3, giao dien dang nhap va ConstraintLayout |
+| `F1` | Lab F1, Flutter ho so |
 
-- A2: tao giao dien dong ho bam gio
-- A2: them onSaveInstanceState
-- A2: them bai nang cao
+Mo dung nhanh roi mo bang Android Studio hoac VS Code.
