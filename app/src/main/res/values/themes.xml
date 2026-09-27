@@ -1,0 +1,57 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.A3_231A290021" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorTertiary">@color/tertiary</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="android:colorBackground">@color/surface</item>
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:navigationBarColor">@color/surface</item>
+    </style>
+
+    <style name="Theme.A3_231A290021" parent="Base.Theme.A3_231A290021" />
+
+    <!-- NC3: kiểu chữ dùng lại, tránh lặp textSize/textColor trên từng TextView -->
+    <style name="TitleText" parent="TextAppearance.Material3.TitleLarge">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="SubtitleText" parent="TextAppearance.Material3.BodyMedium">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/muted</item>
+    </style>
+
+    <style name="KickerText" parent="TextAppearance.Material3.LabelMedium">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/on_primary</item>
+        <item name="android:letterSpacing">0.1</item>
+    </style>
+
+    <style name="HeaderTitleText" parent="TextAppearance.Material3.HeadlineSmall">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/on_primary</item>
+    </style>
+
+    <style name="ProfileNameText" parent="TextAppearance.Material3.TitleMedium">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="MutedText" parent="TextAppearance.Material3.BodyMedium">
+        <item name="android:textColor">@color/muted</item>
+    </style>
+
+    <style name="StatValueText" parent="TextAppearance.Material3.HeadlineSmall">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/primary</item>
+    </style>
+
+    <style name="StatLabelText" parent="TextAppearance.Material3.LabelMedium">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/muted</item>
+    </style>
+</resources>

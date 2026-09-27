@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/colors.xml -->
+<resources>
+    <color name="primary">#0468D7</color>
+    <color name="tertiary">#00A6A6</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#D6E6FB</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#EEF2F6</color>
+    <color name="divider">#D5DDE3</color>
+    <color name="muted">#5B6770</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
