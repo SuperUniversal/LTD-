@@ -8,5 +8,6 @@ Bai thuc hanh INT4211, moi lab mot nhanh.
 | `A2` | Lab A2, dong ho bam gio. Ba commit: giao dien, onSaveInstanceState, bai nang cao |
 | `A3` | Lab A3, giao dien dang nhap va ConstraintLayout |
 | `F1` | Lab F1, Flutter ho so |
+| `F2` | Lab F2, dung lai man dang nhap bang Flutter |
 
 Mo dung nhanh roi mo bang Android Studio hoac VS Code.
