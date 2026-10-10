@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bmi_under">#1565C0</color>
+    <color name="bmi_normal">#2E7D32</color>
+    <color name="bmi_over">#F57F17</color>
+    <color name="bmi_obese">#C62828</color>
+</resources>
