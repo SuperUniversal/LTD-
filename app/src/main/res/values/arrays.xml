@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/arrays.xml – nguồn dữ liệu cho Spinner -->
+<resources>
+    <string-array name="khoa">
+        <item>Công nghệ thông tin</item>
+        <item>Kinh tế</item>
+    </string-array>
+
+    <string-array name="mon_hoc">
+        <item>Lập trình trên các thiết bị di động</item>
+        <item>Cơ sở dữ liệu</item>
+        <item>Trí tuệ nhân tạo</item>
+        <item>Kiểm thử phần mềm</item>
+    </string-array>
+
+    <string-array name="mon_kinh_te">
+        <item>Kinh tế vi mô</item>
+        <item>Kinh tế vĩ mô</item>
+        <item>Nguyên lý kế toán</item>
+        <item>Marketing căn bản</item>
+    </string-array>
+</resources>
